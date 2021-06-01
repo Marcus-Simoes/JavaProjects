@@ -20,7 +20,7 @@ public class EmailApp {
         //create an object from the class Email. This will "call the constructor" with the 2 parameters
         Email email_1 = new Email("Marcus", "Simoes");
 
-        email_1.setAlternateEmail("general@coinbase.com");
+        email_1.setAlternateEmail("general@cryptocoin.com");
 
         System.out.println(email_1.getEmailInfo());
     }

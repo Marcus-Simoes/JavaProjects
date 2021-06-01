@@ -13,7 +13,7 @@ public class Email {
     private String password;
     private String department;
     private String email;
-    private String emailCompanySuffix = ".coinbase.com";
+    private String emailCompanySuffix = ".cryptocoin.com";
     private String alternateEmail;
     private int emailBoxCapacity = 500;
 
